@@ -1,8 +1,8 @@
 
 
 
-![image1](img/image1.png)
-![image1](img/image2.png)
+![image1](img/image1.PNG)
+![image1](img/image2.PNG)
 
 ## install & Run:
 ```
