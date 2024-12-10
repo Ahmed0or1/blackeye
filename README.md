@@ -2,7 +2,6 @@
 
 
 ![image1](image1.PNG)
-![image1](image2.PNG)
 
 ## install & Run:
 ```
@@ -16,4 +15,5 @@ sudo chmod 777 blackeye.sh
 ```md
 cd blackeye & ./blackeye.sh
 ```
+![image1](image2.PNG)
 
