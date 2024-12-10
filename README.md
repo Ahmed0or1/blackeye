@@ -13,7 +13,7 @@ sudo chmod 777 blackeye.sh
  ## Run
 
 ```md
-cd blackeye & ./blackeye.sh
+cd blackeye ; ./blackeye.sh
 ```
 ![image1](image2.PNG)
 
